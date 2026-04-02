@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Being placed in a random group with strangers feels comfortable to you.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 2,
+    "text": "During breaks between classes, you prefer finding a quiet spot over joining classmates.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 3,
+    "text": "You are usually the one who suggests plans like lunch or group study sessions.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 4,
+    "text": "When a classmate you barely know starts a conversation, you engage willingly.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 5,
+    "text": "After a day of group work and socialising, you need several hours alone to recover.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 6,
+    "text": "You have introduced yourself to someone at university purely out of curiosity.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 7,
+    "text": "When your friend group plans a large gathering, you secretly hope something comes up so you can skip it.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 8,
+    "text": "You genuinely enjoy learning about the backgrounds and opinions of people you meet at university.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 9,
+    "text": "If you disagreed with something a lecturer said, you would speak up in front of the class.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 10,
+    "text": "You mentally rehearse what to say before approaching someone you do not know well.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 11,
+    "text": "After a group presentation, the interaction with the audience felt more rewarding than the finished work.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 12,
+    "text": "When walking across campus alone, you put headphones in to signal you are unavailable.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 13,
+    "text": "You have naturally taken on an organiser role in a study group without being asked.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 14,
+    "text": "When stressed about an exam, your first instinct is to call or meet a friend.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 15,
+    "text": "Being around people for long periods gradually wears you down, even people you like.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 16,
+    "text": "At a university event where you know few people, you approach strangers rather than wait.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 17,
+    "text": "You enjoy moments in class when discussion gets lively and people are openly debating.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 18,
+    "text": "You feel quietly relieved when a planned social event gets cancelled.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [0, 1, 2, 3, 4]
+  },
+  {
+    "id": 19,
+    "text": "Your friends would describe you as someone who brings energy to a group setting.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  },
+  {
+    "id": 20,
+    "text": "Your ideal weekend during semester involves spending most of the time with other people.",
+    "options": ["Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree"],
+    "scores": [4, 3, 2, 1, 0]
+  }
+]
