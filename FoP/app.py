@@ -94,14 +94,14 @@ class SurveyResult:
 # ══════════════════════════════════════════════════════════════
 
 def load_questions(filepath="questions.json"):
-    """
-    Load survey questions from an external JSON file at programme startup.
-    Separates data from logic — questions can be changed without editing code.
-    Returns a list of question dictionaries.
-    """
     global APP_READY
-    with open(filepath, "r", encoding="utf-8") as f:
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    full_path = os.path.join(base_dir, filepath)
+
+    with open(full_path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
     APP_READY = True
     return data
 
